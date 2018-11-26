@@ -1,0 +1,13 @@
+{
+    "name": "adrien-h/siii-stripe-bundle",
+    "description": "Stripe integration for Symfony 4",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Adrien H",
+            "email": "adrien.h@tuta.io"
+        }
+    ],
+    "require": {}
+}
